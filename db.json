@@ -1,8 +1,9 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "postss": [
+    {id:1, title: "нск", CategoryGroup : "onBuilding",Laws  : "Law1", GlobalGroups: "novosibOblast", ShowFromServer: true, StartCreateDate: "14.03.3020", DayCount:"5", UrgentValue: true},
+          {id:2, title: "дальний восток", CategoryGroup : "onGods",Laws  : "Law3", GlobalGroups: "farEast", ShowFromServer: false, StartCreateDate: "14.03.3020", DayCount:"5", UrgentValue: true},
+          {id:3, title: "нскФО", CategoryGroup : "onBuilding",Laws  : "Law2", GlobalGroups: "sibFO", ShowFromServer: true, StartCreateDate: "14.03.3020", DayCount:"5", UrgentValue: true},
+          {id:4, title: "нскОкруг", CategoryGroup : "onBuilding",Laws  : "Law1", GlobalGroups: "sibFO", ShowFromServer: true, StartCreateDate: "14.03.3020", DayCount:"5", UrgentValue: true},
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
