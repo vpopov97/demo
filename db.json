@@ -4,7 +4,8 @@
     {"id":2, "title": "дальний восток", "CategoryGroup": "onGods","Laws": "Law3", "GlobalGroups": "farEast", "ShowFromServer": false, "StartCreateDate": "14.03.3020", "DayCount":"5", "UrgentValue": true},
     {"id":3, "title": "нскФО", "CategoryGroup" : "onBuilding","Laws": "Law2", "GlobalGroups": "sibFO", "ShowFromServer": true, "StartCreateDate": "14.03.3020", "DayCount":"5", "UrgentValue": true }
   ],
-  "tenders1": [{ tLotId: Math.random(), datePublic: new Date(2020, 8, 25), dateFinish: new Date(2020, 9, 1), statusId: 2, status: 'Работа комиссии', startCost: 53000329, winnerCost: 53000009, title: 'Масла и смазки для ЗАО "asccascsac" ОП Балаково', customer: 'ОАО "ывм"', type: 'sdcsdcdscds', region: 'wef', platform: 'B2B', winner: 'ИП - Рывсым Рлшг Пывшг' },
+  "tenders1": [
+    { tLotId: Math.random(), datePublic: new Date(2020, 8, 25), dateFinish: new Date(2020, 9, 1), statusId: 2, status: 'Работа комиссии', startCost: 53000329, winnerCost: 53000009, title: 'Масла и смазки для ЗАО "asccascsac" ОП Балаково', customer: 'ОАО "ывм"', type: 'sdcsdcdscds', region: 'wef', platform: 'B2B', winner: 'ИП - Рывсым Рлшг Пывшг' },
     { tLotId: Math.random(), datePublic: new Date(2020, 8, 25), dateFinish: new Date(2020, 9, 3), statusId: 3, status: 'Завершен', startCost: 53000329, winnerCost: 53000009, title: 'Масла и смазки для ЗАО "asccascsac" ОП Балаково', customer: 'ОАО "ыимкуы"', type: 'sdcsdcdscds', region: 'wef', platform: 'B2B', winner: 'ИП - Рывсым Рлшг Пывшг' },
     { tLotId: Math.random(), datePublic: new Date(2020, 8, 25), dateFinish: new Date(2020, 9, 5), statusId: 1, status: 'Отменен', startCost: 53000329, winnerCost: 53000009, title: 'Масла и смазки для ЗАО "asccascsac" ОП Балаково', customer: 'ОАО "виавимы"', type: 'sdcsdcdscds', region: 'wef', platform: 'B2B', winner: 'ИП - Рывсым Рлшг Пывшг' },
     { tLotId: Math.random(), datePublic: new Date(2020, 8, 25), dateFinish: new Date(2020, 9, 1), statusId: 2, status: 'Работа комиссии', startCost: 53000329, winnerCost: 53000009, title: 'Масла и смазки для ЗАО "asccascsac" ОП Балаково', customer: 'ОАО "ывм"', type: 'sdcsdcdscds', region: 'wef', platform: 'B2B', winner: 'ИП - Рывсым Рлшг Пывшг' },
@@ -12,8 +13,7 @@
     { tLotId: Math.random(), datePublic: new Date(2020, 8, 25), dateFinish: new Date(2020, 9, 5), statusId: 1, status: 'Отменен', startCost: 53000329, winnerCost: 53000009, title: 'Масла и смазки для ЗАО "asccascsac" ОП Балаково', customer: 'ОАО "виавимы"', type: 'sdcsdcdscds', region: 'wef', platform: 'B2B', winner: 'ИП - Рывсым Рлшг Пывшг' },
     { tLotId: Math.random(), datePublic: new Date(2020, 8, 25), dateFinish: new Date(2020, 9, 1), statusId: 2, status: 'Работа комиссии', startCost: 53000329, winnerCost: 53000009, title: 'Масла и смазки для ЗАО "asccascsac" ОП Балаково', customer: 'ОАО "ывм"', type: 'sdcsdcdscds', region: 'wef', platform: 'B2B', winner: 'ИП - Рывсым Рлшг Пывшг' },
     { tLotId: Math.random(), datePublic: new Date(2020, 8, 25), dateFinish: new Date(2020, 9, 10), statusId: 1, status: 'подача заявок', startCost: 53000329, winnerCost: 53000009, title: 'Масла и смазки для ЗАО "asccascsac" ОП Балаково', customer: 'ОАО "Вчаим"', type: 'sdcsdcdscds', region: 'wef', platform: 'B2B', winner: 'ИП - Рывсым Рлшг Пывшг' }
-  ]
-  
+  ],
   "profile": {
     "name": "typicode"
   }
